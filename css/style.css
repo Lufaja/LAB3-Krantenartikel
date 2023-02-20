@@ -1,0 +1,16 @@
+.foto{
+    border: 2px solid black;
+    margin: 15px;
+}
+#vloot1{
+    float: left;
+}
+#vloot2{
+    float: right;
+}
+#vloot3{
+    float: left;
+}
+body{
+    background: lightseagreen;
+}
